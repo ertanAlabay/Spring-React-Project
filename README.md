@@ -5,6 +5,6 @@ All information is inside of a card view. You can delete, update and create a ne
 
 ## Also, the project includes these technologies
 
-* For frontend - React 
-* For backend - Spring Boot with lombok, JPA, Web used. 
-* For database - PostgreSQL \n
+* React is used for the fronten. 
+* Spring Boot with Lombok, JPA, and Web is used for the backend. 
+* PostgreSQL is used for database. 
